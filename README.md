@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lingeshsathyanarayanacm&label=Profile%20views&color=0e75b6&style=flat" alt="lingeshsathyanarayanacm" /> </p>
 
-- 🔭 I’m currently working on [portfolio](https://threejs-portfolio-main-delta.vercel.app/)
+- 🔭 I’m currently working on [Portfolio](https://threejs-portfolio-main-delta.vercel.app/)
 
 - 🌱 I’m currently learning **Three.js,Unity**
-
-- 👨‍💻 All of my projects are available at [https://threejs-portfolio-main-delta.vercel.app/](https://threejs-portfolio-main-delta.vercel.app/)
 
 - 📝 I regularly write articles on [https://bananasave.blogspot.com/](https://bananasave.blogspot.com/)
 
@@ -15,7 +13,7 @@
 
 - 📫 How to reach me **lingeshsathyanarayana@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17ZLIxHzIHDeU-S7HcwezEHvsYC36LsVg/view?usp=sharing](https://drive.google.com/file/d/17ZLIxHzIHDeU-S7HcwezEHvsYC36LsVg/view?usp=sharing)
+- 📄 Know about my experiences [Download Here](https://drive.google.com/file/d/17ZLIxHzIHDeU-S7HcwezEHvsYC36LsVg/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
