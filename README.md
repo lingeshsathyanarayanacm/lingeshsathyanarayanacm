@@ -11,13 +11,15 @@
 
 - 💬 Ask me about **React ,Springboot ,Html/Css, Javascript, Three.js**
 
-- 📫 How to reach me **lingeshsathyanarayana@gmail.com,727822TUCS105@skct.edu.in**
+- 📫 How to reach me **lingeshsathyanarayana@gmail.com**
+- Another gmail address **727822tucs105@skct.edu.in**
 
 - 📄 Know about my experiences [Click here to see more...](https://drive.google.com/file/d/17ZLIxHzIHDeU-S7HcwezEHvsYC36LsVg/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lingesh-sathya-narayana-a96913258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lingesh-sathya-narayana-a96913258" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lingesh-sathya-narayana-a96913258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord-alt.svg" alt="lingesh-sathya-narayana-a96913258" height="30" width="40" /></a>
 </p>
 <h3 align="left">Platforms I'have Worked:</h3>
 <p>
