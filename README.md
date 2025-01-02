@@ -32,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lingeshsathyanarayanacm&show_icons=true&locale=en" alt="lingeshsathyanarayanacm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lingeshsathyanarayanacm&" alt="lingeshsathyanarayanacm" /></p>
-<p><img align="center" src="https://drive.google.com/file/d/136zm53mQ5fjaIWcicsTWNJf_ee5_aFMw/view?usp=sharing" alt="lingeshsathyanarayanacm" /></p>
