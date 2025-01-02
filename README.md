@@ -14,9 +14,8 @@
 - 💬 Ask me about **React ,Springboot ,Html/Css, Javascript, Three.js**
 
 - 📫 How to reach me **lingeshsathyanarayana@gmail.com**
-- Another gmail address **727822tucs105@skct.edu.in**
 
-- 📄 Know about my experiences [Click here to see more...](https://drive.google.com/file/d/17ZLIxHzIHDeU-S7HcwezEHvsYC36LsVg/view?usp=sharing)
+- 📄 Know about my experiences [Click here](https://drive.google.com/file/d/17ZLIxHzIHDeU-S7HcwezEHvsYC36LsVg/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
