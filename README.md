@@ -42,5 +42,8 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lingeshsathyanarayanacm/lingeshsathyanarayanacm/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanking+you+👋;" />
+</h1>
 </div>
 
