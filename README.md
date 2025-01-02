@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Three.js,Unity**
 
-- 📝 I regularly write articles on [Blogger](https://bananasave.blogspot.com/)
+- 📝 I regularly write articles on [Blogs](https://bananasave.blogspot.com/)
 
 - 💬 Ask me about **React ,Springboot ,Html/Css, Javascript, Three.js**
 
