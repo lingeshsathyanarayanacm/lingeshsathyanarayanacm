@@ -17,7 +17,9 @@
 
 - 📄 Know about my experiences [Click here](https://drive.google.com/file/d/17ZLIxHzIHDeU-S7HcwezEHvsYC36LsVg/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">![ConnectWithEachOtherMrroflwafflesGIF (2)](https://github.com/user-attachments/assets/2cab7c11-8ef6-464b-a3b1-d355f348e12a)
+![ConnectWithEachOtherMrroflwafflesGIF](https://github.com/user-attachments/assets/06fd8b31-5daf-4c97-aed4-ce0b9c95482d)
+Connect with me:</h3>
 <hr/>
 <p align="left">
 <a href="https://linkedin.com/in/lingesh-sathya-narayana-a96913258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lingesh-sathya-narayana-a96913258" height="30" width="40" /></a>
@@ -30,7 +32,7 @@
 <a href="https://www.leetcode.com/727822tucs105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="727822tucs105" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 <hr/>
 <p > 
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
@@ -53,7 +55,8 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
     <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
     <a href="https://unity.com/" target="_blank" rel="noreferrer">  </p>
-<h3>Stats</h3>
+<h3>⚡ Stats ⚡</h3>
+<hr/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lingeshsathyanarayanacm&show_icons=true&locale=en&layout=compact" alt="lingeshsathyanarayanacm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lingeshsathyanarayanacm&show_icons=true&locale=en" alt="lingeshsathyanarayanacm" /></p>
