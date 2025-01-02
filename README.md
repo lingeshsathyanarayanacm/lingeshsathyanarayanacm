@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/lingesh-sathya-narayana-a96913258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lingesh-sathya-narayana-a96913258" height="30" width="40" /></a>
 </p>
 <br>
-<h3 align="left">Platforms I'have Worked:</h3>
+<h3 align="left">💻 Platforms I'have Worked 💻</h3>
 <hr/>
 <p>
 <a href="https://www.hackerrank.com/727822tucs105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="727822tucs105" height="30" width="40" /></a>
