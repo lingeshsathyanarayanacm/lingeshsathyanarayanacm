@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lingeshsathyanarayanacm&label=Profile%20views&color=0e75b6&style=flat" alt="lingeshsathyanarayanacm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lingeshsathyanarayanacm" alt="lingeshsathyanarayanacm" /></a> </p>
-
 - 🔭 I’m currently working on [portfolio](https://threejs-portfolio-main-delta.vercel.app/)
 
 - 🌱 I’m currently learning **Three.js,Unity**
