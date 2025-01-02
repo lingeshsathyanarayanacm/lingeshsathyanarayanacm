@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lingesh Sathya Narayana CM</h1>
-<h3 align="left">A passionate frontend and backend Developer</h3>
+<h3 align="center">A passionate frontend and backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lingeshsathyanarayanacm&label=Profile%20views&color=0e75b6&style=flat" alt="lingeshsathyanarayanacm" /> </p>
 
@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Three.js,Unity**
 
-- 📝 I regularly write articles on [https://bananasave.blogspot.com/](https://bananasave.blogspot.com/)
+- 📝 I regularly write articles on [Blogger](https://bananasave.blogspot.com/)
 
 - 💬 Ask me about **React ,Springboot ,Html/css,Javascript**
 
 - 📫 How to reach me **lingeshsathyanarayana@gmail.com**
 
-- 📄 Know about my experiences [Download Here](https://drive.google.com/file/d/17ZLIxHzIHDeU-S7HcwezEHvsYC36LsVg/view?usp=sharing)
+- 📄 Know about my experiences [Click here to see more...](https://drive.google.com/file/d/17ZLIxHzIHDeU-S7HcwezEHvsYC36LsVg/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
