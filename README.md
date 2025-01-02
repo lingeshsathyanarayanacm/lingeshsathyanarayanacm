@@ -36,7 +36,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lingeshsathyanarayanacm&show_icons=true&locale=en" alt="lingeshsathyanarayanacm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lingeshsathyanarayanacm&" alt="lingeshsathyanarayanacm" /></p>
-<div align="center">
+<div align="left">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lingeshsathyanarayanacm/lingeshsathyanarayanacm/output/github-contribution-grid-snake.svg" />
